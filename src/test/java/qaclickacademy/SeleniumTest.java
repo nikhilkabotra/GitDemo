@@ -8,6 +8,8 @@ public class SeleniumTest {
 	public void BrowserTest()
 	{
 		System.out.println("BrowserTest");
+		System.out.println("BrowserTest2");
+		System.out.println("BrowserTest3");
 	}
 	
 	@Test
