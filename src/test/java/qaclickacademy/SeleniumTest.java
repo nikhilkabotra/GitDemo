@@ -16,6 +16,8 @@ public class SeleniumTest {
 	public void ContentTest()
 	{
 		System.out.println("ContentTest");
+		System.out.println("ContentTest1");
+		System.out.println("ContentTest2");
 	}
 
 }
